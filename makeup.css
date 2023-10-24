@@ -1,0 +1,41 @@
+body{
+    margin: 0%;
+    font-family: 'Poppins', sans-serif;
+    text-align: center;
+    background-color: rgb(97, 6, 32);
+    text-shadow: 5%;
+
+    
+    
+    
+    
+    
+}
+.half-width{
+    box-shadow: 10px 10px 40px rgba(239, 235, 235, 0.834);
+    border-radius: 10px;
+    height: 90%;
+    
+    
+}
+p{
+    color: rgba(240, 248, 255, 0.923);
+    text-shadow: 10px 10px 40px rebeccapurple;
+}
+
+
+.image{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: large;
+}
+h1{
+    color: azure;
+    font-family: 'Kalam', cursive
+}
+.button{
+    text-decoration: none;
+    background-color: rgba(0, 136, 255, 0.89);
+    padding: 10px 20px;
+    border-radius: 5px;
+    color: aliceblue;
+}
